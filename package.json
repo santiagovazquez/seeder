@@ -1,0 +1,22 @@
+{
+  "name": "seeder",
+  "version": "1.0.0",
+  "description": "Dynamic knex db seeder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagovazquez/seeder.git"
+  },
+  "author": "Santiago Vázquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santiagovazquez/seeder/issues"
+  },
+  "homepage": "https://github.com/santiagovazquez/seeder#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
